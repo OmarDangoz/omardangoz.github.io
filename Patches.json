@@ -1,10 +1,10 @@
 {
     "patches": [
         {
-        "files": ["Join.zip"],
+        "files": ["BetaTest0.zip"],
         "folder": "game/",
         "version": 0.1,
-        "save_as": "Join.zip"
+        "save_as": "BetaTest0.zip"
         },
     ]
 }
