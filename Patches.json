@@ -1,5 +1,11 @@
 {
-    "patches": [      
+    "patches": [
+        {
+        "files": ["BetaTest1.zip"],
+        "folder": "game/",
+        "version": 0.1,
+        "save_as": "BetaTest1.zip"
+        },
         {
         "files": ["pakchunk1-Windows.zip"],
         "folder": "game/DangozPatcher/Content/Paks/",
