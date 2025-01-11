@@ -6,5 +6,11 @@
         "version": 0.2,
         "save_as": "BetaTest1.zip"
         },
+        {
+        "files": ["pakchunk1-Windows.zip"],
+        "folder": "game/DangozPatcher/Content/Paks/",
+        "version": 0.3,
+        "save_as": "pakchunk1-Windows.zip"
+        },
     ]
 }
