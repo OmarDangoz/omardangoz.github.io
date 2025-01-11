@@ -7,10 +7,10 @@
         "save_as": "DangozWindows.zip"
         },
         {
-        "files": ["pakchunk2-Windows.pak"],
+        "files": ["Paks.zip"],
         "folder": "Content/Paks/",
         "version": 0.1,
-        "save_as": "pakchunk2-Windows.pak"
+        "save_as": "Paks.zip"
         },
     ]
 }
