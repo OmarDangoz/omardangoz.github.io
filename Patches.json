@@ -8,7 +8,7 @@
         },
         {
         "files": ["pakchunk1-Windows.zip"],
-        "folder": "game/DangozPatcher/Content/Paks/",
+        "folder": "DangozPatcher/Content/Paks/",
         "version": 0.1,
         "save_as": "pakchunk1-Windows.zip"
         },
